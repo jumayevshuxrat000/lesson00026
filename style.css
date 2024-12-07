@@ -22,8 +22,6 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  
-  /* Inputlar uchun dizayn */
   input[type="text"], input[type="number"], select {
     width: 100%;
     padding: 10px;
@@ -41,7 +39,6 @@ body {
     outline: none;
   }
   
-  /* Tugma uchun uslub */
   button {
     width: 100%;
     padding: 10px 15px;
@@ -58,7 +55,6 @@ body {
     background: #0056b3;
   }
   
-  /* Yaratilgan foydalanuvchi bloki */
   .user {
     background: #f9f9f9;
     padding: 15px;
